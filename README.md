@@ -1,0 +1,1 @@
+This is GrugLife's first git project!
